@@ -1,4 +1,4 @@
-package jibril.snowflake.local;
+package net.notjustanna.snowflake.local;
 
 import jibril.snowflake.entities.SnowflakeDatacenter;
 import jibril.snowflake.entities.SnowflakeGenerator;
