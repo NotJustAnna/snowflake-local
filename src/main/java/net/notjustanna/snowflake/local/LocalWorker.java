@@ -1,9 +1,9 @@
 package net.notjustanna.snowflake.local;
 
-import jibril.snowflake.SnowflakeConfig;
-import jibril.snowflake.entities.SnowflakeDatacenter;
-import jibril.snowflake.entities.SnowflakeGenerator;
-import jibril.snowflake.entities.SnowflakeWorker;
+import net.notjustanna.snowflake.SnowflakeConfig;
+import net.notjustanna.snowflake.entities.SnowflakeDatacenter;
+import net.notjustanna.snowflake.entities.SnowflakeGenerator;
+import net.notjustanna.snowflake.entities.SnowflakeWorker;
 
 import static java.lang.System.currentTimeMillis;
 

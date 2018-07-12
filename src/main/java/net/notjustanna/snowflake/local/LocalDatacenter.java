@@ -1,8 +1,8 @@
 package net.notjustanna.snowflake.local;
 
-import jibril.snowflake.entities.SnowflakeDatacenter;
-import jibril.snowflake.entities.SnowflakeGenerator;
-import jibril.snowflake.entities.SnowflakeWorker;
+import net.notjustanna.snowflake.entities.SnowflakeDatacenter;
+import net.notjustanna.snowflake.entities.SnowflakeGenerator;
+import net.notjustanna.snowflake.entities.SnowflakeWorker;
 
 import java.util.HashMap;
 import java.util.Map;
