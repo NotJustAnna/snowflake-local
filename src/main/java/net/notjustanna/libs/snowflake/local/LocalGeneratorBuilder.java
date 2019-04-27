@@ -1,8 +1,8 @@
-package net.notjustanna.snowflake.local;
+package net.notjustanna.libs.snowflake.local;
 
-import net.notjustanna.snowflake.Snowflake;
-import net.notjustanna.snowflake.SnowflakeConfig;
-import net.notjustanna.snowflake.entities.SnowflakeGenerator;
+import net.notjustanna.libs.snowflake.Snowflake;
+import net.notjustanna.libs.snowflake.SnowflakeConfig;
+import net.notjustanna.libs.snowflake.entities.SnowflakeGenerator;
 
 public class LocalGeneratorBuilder {
     private long datacenterIdBits = 5;
